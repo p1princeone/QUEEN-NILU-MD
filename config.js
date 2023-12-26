@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '254793651678'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'PRINCEONE'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '℘ཞıŋƈɛ◎ŋɛ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
